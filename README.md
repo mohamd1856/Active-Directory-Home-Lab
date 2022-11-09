@@ -16,8 +16,8 @@ https://user-images.githubusercontent.com/117259069/200873671-5327a7df-90a4-4b64
 ### Script execution:
 ```
 Open Powershell as Administrator
-Change directory to Auto_CREATE_USERS' location
-PS C:\Users\username\Desktop\> .\Auto_CREATE_USERS.ps1
+Change directory to ActiveDir-Script
+PS C:\Users\username\Desktop\ActiveDir-Script> .\Auto_Create_Users.ps1
 ```
 
 ## Setup Breakdown
