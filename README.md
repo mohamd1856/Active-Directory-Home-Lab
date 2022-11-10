@@ -8,9 +8,10 @@
  - **Windows11 VM:** To test the Domain Controller (as a client).
 
 ## Snippets
-https://user-images.githubusercontent.com/117259069/200873701-12fa2d6f-a1fd-469e-9dbc-b481a81f4406.mp4
+https://user-images.githubusercontent.com/117259069/201013500-c601ddd7-bf5e-474d-a316-a88d83a13278.mp4
 
-https://user-images.githubusercontent.com/117259069/200873671-5327a7df-90a4-4b64-b3e4-33db24b51508.mp4
+https://user-images.githubusercontent.com/117259069/201013202-3d41fc65-4534-4430-8661-9ab57ccc278d.mp4
+
 > The Error displayed is about the redundancy of usernames present in the Users_List.txt
 
 ### Script execution:
