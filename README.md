@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/117259069/201013500-c601ddd7-bf5e-474d
 
 https://user-images.githubusercontent.com/117259069/201013202-3d41fc65-4534-4430-8661-9ab57ccc278d.mp4
 
-> The Error displayed is about the redundancy of usernames present in the Users_List.txt
+> The error displayed is about the redundancy of usernames present in the Users_List.txt file
 
 ### Script execution:
 ```
